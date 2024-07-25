@@ -1,9 +1,9 @@
 {
      "PreVendas": [
-        {"id": "1", "data": "24/07/2024 - 21h59", "profissional": "João", "cliente": "José"},
-        {"id": "2", "data": "24/07/2024 - 21h59", "profissional": "Maria", "cliente": "Marcia"},
-        {"id": "3", "data": "24/07/2024 - 21h59", "profissional": "Rosangela", "cliente": "Rosana"},
-        {"id": "4", "data": "24/07/2024 - 21h59", "profissional": "Ana", "cliente": "Amelia"},
-        {"id": "5", "data": "24/07/2024 - 21h59", "profissional": "Beatriz", "cliente": "Bianca"}
+        {"vendaItemId": "1", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "João", "nomeProduto": "TINTURA", "nomeCliente": "José"},
+        {"vendaItemId": "2", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Maria", "nomeProduto": "TINTURA", "nomeCliente": "Marcia"},
+        {"vendaItemId": "3", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Rosangela", "nomeProduto": "TINTURA", "nomeCliente": "Rosana"},
+        {"vendaItemId": "4", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Ana", "nomeProduto": "TINTURA", "nomeCliente": "Amelia"},
+        {"vendaItemId": "5", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Beatriz", "nomeProduto": "TINTURA", "nomeCliente": "Bianca"}
       ]
 }
