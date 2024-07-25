@@ -3,7 +3,6 @@
         {"id": "2", "data": "24/07/2024 - 21h59", "profissional": "Maria", "cliente": "Marcia"},
         {"id": "3", "data": "24/07/2024 - 21h59", "profissional": "Rosangela", "cliente": "Rosana"},
         {"id": "4", "data": "24/07/2024 - 21h59", "profissional": "Ana", "cliente": "Amelia"},
-        {"id": "5", "data": "24/07/2024 - 21h59", "profissional": "Beatriz", "cliente": "Bianca"},
-        {"id": "5", "data": "24/07/2024 - 21h59", "profissional": "Patricia", "cliente": "Paula"}
+        {"id": "5", "data": "24/07/2024 - 21h59", "profissional": "Beatriz", "cliente": "Bianca"}
  
 ]
