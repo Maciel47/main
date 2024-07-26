@@ -7,10 +7,10 @@
         {"vendaItemId": "5", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Beatriz", "nomeProduto": "TINTURA", "nomeCliente": "Bianca"}
       ],
      "Ingredientes": [
-        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "0.200"},
+        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "1"},
         {"vendaItemId": "2", "nomeIngrediente": "Pó descolorante", "quantidadeIngrediente": "1"},
-        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "0.200"},
-        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "0.200"},
-        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "0.200"},
-      ]
+        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "1"},
+        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "1"},
+        {"vendaItemId": "2", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "1"}
+     ]
 }
