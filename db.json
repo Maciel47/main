@@ -2,7 +2,7 @@
      "PreVendas": [
         {"vendaItemId": "1", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Cristina", "nomeProduto": "TINTURA", "nomeCliente": "Mariana Balbino da Silva Caires"},
         {"vendaItemId": "2", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Maria", "nomeProduto": "TINTURA", "nomeCliente": "Marcia"},
-        {"vendaItemId": "3", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Rosangela", "nomeProduto": "TINTURA", "nomeCliente": "Rosana"},
+        {"vendaItemId": "3", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Mariele", "nomeProduto": "TINTURA", "nomeCliente": "Rosana"},
         {"vendaItemId": "4", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Ana", "nomeProduto": "TINTURA", "nomeCliente": "Amelia"},
         {"vendaItemId": "5", "dataLancamento": "24/07/2024 - 21h59", "nomeFuncionario": "Beatriz", "nomeProduto": "TINTURA", "nomeCliente": "Bianca"}
       ],
