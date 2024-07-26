@@ -10,7 +10,7 @@
         {"vendaItemId": "1", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "2"},
         {"vendaItemId": "3", "nomeIngrediente": "Pó descolorante", "quantidadeIngrediente": "4"},
         {"vendaItemId": "5", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "6"},
-        {"vendaItemId": "1", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "7"},
+        {"vendaItemId": "10", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "7"},
         {"vendaItemId": "8", "nomeIngrediente": "Tinta azul", "quantidadeIngrediente": "9"}
      ]
 }
